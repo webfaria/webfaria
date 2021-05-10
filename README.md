@@ -10,11 +10,11 @@
 
 <div>
   <p>
-    <img align="left" 
+    <img align="left" width="400px" height="500px"
          src="https://github-readme-stats.vercel.app/api?username=webfaria&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2"                  alt="Cleber Faria" />
   </p>
   <p>
-  <img align="right" 
+    <img align="right" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=webfaria&layout=compact&theme=graywhite&title_color=268bd2" 
          alt="Cleber Faria" />
   </p>
