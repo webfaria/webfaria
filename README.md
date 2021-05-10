@@ -8,7 +8,7 @@
   </a>
 </p>
 
-![Figura 1](https://github-readme-stats.vercel.app/api?username=webfaria&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2)           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Figura 2](https://github-readme-stats.vercel.app/api/top-langs/?username=webfaria&layout=compact&theme=graywhite&title_color=268bd2)
+![Figura 1](https://github-readme-stats.vercel.app/api?username=webfaria&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2)           &nbsp;&nbsp;&nbsp;&nbsp;![Figura 2](https://github-readme-stats.vercel.app/api/top-langs/?username=webfaria&layout=compact&theme=graywhite&title_color=268bd2)
 
 <!--
 Here are some ideas to get you started:
