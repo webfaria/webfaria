@@ -1,5 +1,6 @@
 # Seja bem vindo!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=webfaria" alt="Cleber Faria" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=webfaria" alt="Cleber Faria" />
   <a href="https://www.linkedin.com/in/webfaria/" target="_blank">
     <img align="right" src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png" width="24px" height="24px">
   </a>
